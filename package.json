@@ -9,10 +9,10 @@
   "author": "Stig Kleppe-Jørgensen",
   "homepage": "https://github.com/finn-no/Frontend-Testing-in-Containers-on-Academy#readme",
   "dependencies": {
-    "prez": "^4.5.0"
+    "prez": "^4.7.0"
   },
   "devDependencies": {
-    "gh-pages": "^0.10.0"
+    "gh-pages": "^1.0.0"
   },
   "scripts": {
     "start": "prez --serve --such-notes",
